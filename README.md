@@ -13,7 +13,7 @@ WebTorrent由[Feross Aboukhadijeh](Feross Aboukhadijeh)创建，是加载在浏�
 * [web2web](https://github.com/elendirx/web2web)
 * [webtorrent](https://webtorrent.io/)
 * [zeronet](https://zeronet.io/) _using Bitcoin cryptography and BitTorrent network_
-* [Bitcoin Block Explorer](https://blockexplorer.com/) <small>_an open source web tool that allows you to view information about blocks, addresses, and transactions on the Bitcoin blockchain_</small>
+* [Bitcoin Block Explorer](https://blockexplorer.com/) _an open source web tool that allows you to view information about blocks, addresses, and transactions on the Bitcoin blockchain_
 
 # 文章
 
